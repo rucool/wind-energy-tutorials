@@ -1,5 +1,5 @@
 # Wind Energy Tutorials
-Jupyter Notebook tutorials for plotting wind energy data. For more information on Project Jupyter, please visit their [website](https://jupyter.org/).
+Jupyter Notebook tutorials for plotting wind energy data.
 
 [Rutgers University Center for Ocean Observing Leadership](https://rucool.marine.rutgers.edu/)
 
